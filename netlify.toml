@@ -1,10 +1,10 @@
 [build]
   base = "/"
   publish = "/"
-  command = "# no build command needed"
+  command = ""  # No build needed for static HTML
 
 [functions]
-  directory = "functions"
+  directory = "netlify/functions"  # Updated to match Netlify conventions
 
 [[redirects]]
   from = "/*"
