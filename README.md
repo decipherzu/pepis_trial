@@ -1,6 +1,6 @@
-# Pepis Tril
+# Pepis Trial
 
-A repository for the Pepis Tril project.
+A repository for the Pepis Trial project.
 
 ## Description
 [Add your project description here]
