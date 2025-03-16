@@ -1,6 +1,10 @@
 [build]
+  base = "/"
   publish = "/"
-  command = ""
+  command = "# no build command needed"
+
+[functions]
+  directory = "functions"
 
 [[redirects]]
   from = "/*"
