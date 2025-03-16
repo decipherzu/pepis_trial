@@ -1,18 +1,24 @@
 # Pepis Trial
 
-A repository for the Pepis Trial project.
+A bilingual personal webpage project featuring a responsive design in both English and Spanish.
 
 ## Description
-[Add your project description here]
+This project is a personal webpage that showcases content in both English and Spanish languages. It features a clean, modern design with responsive styling and image integration.
 
-## Getting Started
-[Add setup and installation instructions here]
+## Project Structure
+- `index.html` - Main webpage in English
+- `index-es.html` - Spanish version of the webpage
+- `style.css` - Stylesheet containing all design and layout rules
+- `Photos/` - Directory containing image assets used in the webpage
+
+## Features
+- Bilingual support (English/Spanish)
+- Responsive design
+- Image gallery integration
+- Modern CSS styling
 
 ## Usage
-[Add usage instructions here]
+You can view the webpage by opening either `index.html` (English) or `index-es.html` (Spanish) in a web browser.
 
 ## Contributing
-[Add contribution guidelines here]
-
-## License
-[Add license information here]
+Feel free to submit issues and enhancement requests.
